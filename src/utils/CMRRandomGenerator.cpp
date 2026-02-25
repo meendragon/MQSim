@@ -1,5 +1,5 @@
 #include "CMRRandomGenerator.h"
-
+//letsgo
 namespace Utils
 {
 	double CMRRandomGenerator::norm = 2.328306549295728e-10;
